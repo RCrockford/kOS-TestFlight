@@ -15,5 +15,6 @@ Access from kOS via ADDONS:TF.
 - FAILED - Boolean - Indicates whether the passed in engine has failed or not.
 
 ### Example usage
-```print "MTBF: " + Addons:TF:MTBF(eng) + " seconds".
+```
+print "MTBF: " + Addons:TF:MTBF(eng) + " seconds".
 ```
