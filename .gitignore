@@ -33,4 +33,4 @@
 # VS temps
 .vs
 *.cache
-src/kOS.Addons.AtmosphereAutopilot/obj
+src/kOS.Addons.TestFlight/obj
